@@ -3,11 +3,11 @@
 Cribl App Platform bundles. Download with the links below, then install in Cribl under
 **App Platform → Add App → Import from File**.
 
-## Cribl Pack Generator 1.0.311
+## Cribl Pack Generator 1.0.312
 
-**[Download pack-generator-1.0.311.tgz](https://github.com/purplenoob/cribl-ai-pack-gen-app/raw/refs/heads/main/pack-generator-1.0.311.tgz)**
+**[Download pack-generator-1.0.312.tgz](https://github.com/purplenoob/cribl-ai-pack-gen-app/raw/refs/heads/main/pack-generator-1.0.312.tgz)**
 
-Built from `wvdlinde-cribl/cribl-pack-generator@50f59ecb6f6b4a951aadfdd5447de97063131511`.
+Built from `wvdlinde-cribl/cribl-pack-generator@3c67ab0013bcf22f4c1818bd694088afdba5fb37`.
 
 > **"incorrect header check" on install?** You saved the GitHub page that shows the file,
 > not the file itself. Use the download link above, or **Download raw file** on the file's
