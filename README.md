@@ -3,11 +3,11 @@
 Cribl App Platform bundles. Download with the links below, then install in Cribl under
 **App Platform → Add App → Import from File**.
 
-## Cribl Pack Generator 1.0.322
+## Cribl Pack Generator 1.0.323
 
-**[Download pack-generator-1.0.322.tgz](https://github.com/purplenoob/cribl-ai-pack-gen-app/raw/refs/heads/main/pack-generator-1.0.322.tgz)**
+**[Download pack-generator-1.0.323.tgz](https://github.com/purplenoob/cribl-ai-pack-gen-app/raw/refs/heads/main/pack-generator-1.0.323.tgz)**
 
-Built from `wvdlinde-cribl/cribl-pack-generator@6213a648f260`.
+Built from `wvdlinde-cribl/cribl-pack-generator@8bb07b4e2d34`.
 
 The app is also in the Cribl app catalog: [packs.cribl.io/apps/cc-pack-generator](https://packs.cribl.io/apps/cc-pack-generator).
 
